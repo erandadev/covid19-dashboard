@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.042536cf.chunk.css",
+    "main.js": "/static/js/main.cf5aff62.chunk.js",
+    "main.js.map": "/static/js/main.cf5aff62.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b90980fe.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b90980fe.js.map",
+    "static/js/2.d3db57b9.chunk.js": "/static/js/2.d3db57b9.chunk.js",
+    "static/js/2.d3db57b9.chunk.js.map": "/static/js/2.d3db57b9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.042536cf.chunk.css.map": "/static/css/main.042536cf.chunk.css.map",
+    "static/js/2.d3db57b9.chunk.js.LICENSE.txt": "/static/js/2.d3db57b9.chunk.js.LICENSE.txt",
+    "static/media/cases.870dc628.gif": "/static/media/cases.870dc628.gif",
+    "static/media/chart.6e4e92b2.gif": "/static/media/chart.6e4e92b2.gif",
+    "static/media/deaths.221baafa.gif": "/static/media/deaths.221baafa.gif",
+    "static/media/hospitalized.254e6d71.gif": "/static/media/hospitalized.254e6d71.gif",
+    "static/media/loading.e86bb673.gif": "/static/media/loading.e86bb673.gif",
+    "static/media/recoveries.efe2dc36.gif": "/static/media/recoveries.efe2dc36.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b90980fe.js",
+    "static/js/2.d3db57b9.chunk.js",
+    "static/css/main.042536cf.chunk.css",
+    "static/js/main.cf5aff62.chunk.js"
+  ]
+}
